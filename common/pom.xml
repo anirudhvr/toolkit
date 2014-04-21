@@ -817,11 +817,6 @@
             <artifactId>netty-codec-http</artifactId>
             <version>${netty.version}</version>
         </dependency>
-        <dependency>
-            <groupId>com.mysql.jdbc</groupId>
-            <artifactId>com.springsource.com.mysql.jdbc</artifactId>
-            <version>5.1.6</version>
-        </dependency>
     </dependencies>
   </dependencyManagement>
 
